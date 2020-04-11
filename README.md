@@ -39,7 +39,7 @@ P.S. thanks [@bartekpacia](https://github.com/bartekpacia) :)
 
 # Some interesting articles/videos for further study:
 - [Getting Started with TensorFlow 2.0 (Google I/O'19)](https://www.youtube.com/watch?v=lEljKc9ZtU8)
-- [Machine Learning Zero to Hero (Google I/O'19)](Machine Learning Zero to Hero (Google I/O'19))
+- [Machine Learning Zero to Hero (Google I/O'19)](https://www.youtube.com/watch?v=VwVg9jCtqaU)
 - [Activation Functions Explained - GELU, SELU, ELU, ReLU and more](https://mlfromscratch.com/activation-functions-explained/#/)
 - [Deep Learning #3: More on CNNs & Handling Overfitting](https://towardsdatascience.com/deep-learning-3-more-on-cnns-handling-overfitting-2bd5d99abe5d)
 - [ImageNet: VGGNet, ResNet, Inception, and Xception with Keras](https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/)
