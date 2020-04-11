@@ -1,6 +1,6 @@
 #!pip install deeplearning2020
 import tensorflow as tf
-from deeplearning2020 import Submission, helpers
+from deeplearning2020 import helpers
 from deeplearning2020.datasets import ImageWoof
 from tensorflow import keras
 from tensorflow.python.keras.layers import BatchNormalization, GaussianNoise
@@ -136,5 +136,3 @@ for t in range(4):
         validation_data=test_generator
     )
     helpers.plot_history(f"After {t * 10} epochs:", history)
-
-Submission('108879f01c9f9c9a2569cb694fd6f717', '3', cnn_model).submit()
